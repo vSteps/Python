@@ -1,0 +1,5 @@
+N = (input())
+S = float(input())
+M = float(input())
+T = S + (15/100 * M)
+print("TOTAL = R$ {:.2f}".format(T))
