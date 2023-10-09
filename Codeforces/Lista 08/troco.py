@@ -1,3 +1,4 @@
+
 def maior_troco(preco_marcas, din):
     for i in range(len(preco_marcas)):
         if preco_marcas[i] > din:
